@@ -1,0 +1,2 @@
+# vuexReview
+use mapState 
